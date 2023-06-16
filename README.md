@@ -1,5 +1,8 @@
 # StoicVerse
 
+LINK TO SITE:
+https://tinyurl.com/stoicverse
+
 Made with Ionic/Angular and Firebase.
 Create an account, and log in.
 
