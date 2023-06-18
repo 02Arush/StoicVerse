@@ -1,4 +1,4 @@
-# StoicVerse
+# StoicVault
 
 LINK TO SITE:
 https://tinyurl.com/stoicverse
